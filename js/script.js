@@ -12,7 +12,7 @@ var car = {
     ],
     turnedOn: function() {
         this.isTurnedOn = true;
-    }
+    },
     fly: function() {
         alert('fly');
     },
