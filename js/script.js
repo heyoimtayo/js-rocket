@@ -1,4 +1,3 @@
-<script>
 var car = {
     make: 'VW',
     type: 'Polo',
@@ -29,4 +28,3 @@ var car = {
 };
 
 console.log('hello there friends!');
-</script>
